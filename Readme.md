@@ -1,6 +1,4 @@
-**It is a Shopping App**
-## Assignment 1 and 2 (Welcome Screen , Login ,RegisterPage)
-
+## It is a Shopping App
 
 ## Welcome page
 ![Welcome page](./readmeImages/splash.png)
